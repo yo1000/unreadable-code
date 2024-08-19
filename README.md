@@ -16,7 +16,7 @@ Hit and Blow
 Hit and Blow hits the hidden 1-9 digit numbers.
 
 ```bash
-./mvnw clean package && java -jar target/unreadable_code-1.0-SNAPSHOT.jar 4
+./mvnw clean package && java -jar target/unreadable-code-1.0-SNAPSHOT.jar 4
 ```
 
 Demo
